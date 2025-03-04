@@ -1,0 +1,12 @@
+<extensions>
+  <plugin name="YandexMusic" version="1.0" minLMSVersion="8.0">
+    <title>Yandex Music</title>
+    <desc>Трансляция музыки из Яндекс.Музыки</desc>
+    <homepage>aboba</homepage>
+    <author>Разработчик</author>
+    <license>GPLv3</license>
+    <icon>https://example.com/icon.png</icon>
+    <url>https://example.com/YandexMusic-1.0.zip</url>
+    <sha1>400e2ec1af186e234b829afaec81739e29ba8b42</sha1>
+  </plugin>
+</extensions>
